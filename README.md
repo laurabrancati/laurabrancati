@@ -1,5 +1,6 @@
 Hi, I’m @laurabrancati.
-I’m interested in data analysis for the purpose of improving efficiency, whether that be for business practices or energy consumption. /n
+I’m interested in data analysis for the purpose of improving efficiency, whether that be for business practices or energy consumption. 
+
 Everything we do is data, but this data is useless unless we know how to make sense of it. I like to look at coding like a puzzle, 
 every function or algorithm is a piece of the puzzle that together helps us understand a bigger problem.   
 
