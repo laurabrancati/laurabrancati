@@ -13,6 +13,5 @@ These are some of the projects I have worked on in class, personal projects, and
 * [Data Analysis](https://github.com/laurabrancati/DataAnalysis)
 * [Pollution Projections Project for Zindi](https://github.com/laurabrancati/IX_project_pollution)
 * [BudsLab research](https://github.com/laurabrancati/IX_project_Budslab)
-#### In Progress:
-* police brutality relationship with education and unemployment per county
-  *  Choropleth map using Folium
+* [Police Brutality Research](https://laurabrancati.github.io)
+
